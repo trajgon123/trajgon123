@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Martin K.</h1>
+<h1 align="center">Hi 👋, I'm M. </h1>
 <h3 align="center">A passionate Test Automation Engineer from Czech Republic</h3>
 
 - 🔭 I’m currently working on 
 
-- 📫 How to reach me **trajgon3@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 </p>
